@@ -236,7 +236,7 @@ class ChatEngine:
                     break
         
         # 수정1_12주차 : 10->5번 요청하고도 최종 답변을 얻지 못한다면, 예외 처리 메시지 리턴
-        return tmp_result_list[-1] if cnt<11 else "데이터 양이 많아 시간이 오래 걸립니다. 방금의 질문을 다시 한번 요청해보세요."
+        return tmp_result_list[-1] if cnt<6 else "데이터 양이 많아 시간이 오래 걸립니다. 방금의 질문을 다시 한번 요청해보세요."
     
     
     ## Python Chatbot Main Logic ##
