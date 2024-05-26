@@ -41,12 +41,13 @@
 |Yahoo Finance|WEB|전 세계 주식 시장 데이터 제공, 분석 도구 제공|자체적 분석 기술이 필요하며, 고급 도구는 유료|
 
 유사 서비스로는 '딥서치'가 존재하지만, 반대로 이 기업밖에 존재하지 않습니다.
-그러므로, 딥러닝과 AI, Web에 대한 학습을 의의로 두고 있으며, 실제로 사용자들에게 접근성이 좋은 웹 서비스를 제공하조가 합니다.
+그러므로, 딥러닝과 AI, Web에 대한 학습을 의의로 두고 있으며, 실제로 사용자들에게 접근성이 좋은 웹 서비스를 제공하고자 합니다.
 아직, 보수해야할 부분들이 많지만, 많은 주식 투자자들에게 좋은 정보 제공처가 되어 줄 수 있을 것으로 생각합니다.
 
 <br/>
 
 ## 🎞 Demo 시연영상
+[시연영상 링크](#)
 
 <br/>
 
@@ -82,8 +83,11 @@
   
   <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <br/>
+
   <img src="https://img.shields.io/badge/tradingview-131622?style=for-the-badge&logo=tradingview&logoColor=white">
   <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+  <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
   <br/>
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -175,4 +179,4 @@
 
 ###  :dolphin: 김원준 <a href="https://github.com/kimwonjun1"> github<br></a>
 
-* 역할 구분
+* `Backend`
