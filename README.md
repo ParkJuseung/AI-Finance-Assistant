@@ -57,7 +57,7 @@
 
 <br/>
 
-- 강화학습 모델 오픈소스 활용 : RLTrader(작성자: Quantylab)
+- 강화학습 모델 오픈소스 활용 : [RLTrader(작성자: Quantylab)](https://github.com/quantylab/rltrader)
 
 <br/>
 
