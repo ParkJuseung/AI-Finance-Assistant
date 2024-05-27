@@ -180,3 +180,6 @@
 ###  :dolphin: 김원준 <a href="https://github.com/kimwonjun1"> github<br></a>
 
 * `Backend`
+* 로그인, 회원가입 페이지 Spring MVC 설계 및 구현
+* 챗봇 페이지에 대한 접근 권한 설정
+* 로그인 권한 Token 활용으로 CSRF 보안 강화
