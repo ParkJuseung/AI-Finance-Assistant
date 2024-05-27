@@ -47,7 +47,7 @@
 <br/>
 
 ## 🎞 Demo 시연영상
-[시연영상 링크](#)
+[시연영상 링크](https://blog.naver.com/jksohn28/223460560682)
 
 <br/>
 
