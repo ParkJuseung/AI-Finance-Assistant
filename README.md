@@ -159,7 +159,7 @@
 * CreonAPI Python System과 연동되는 Spring 설계 및 구축
 * NaverAPI Python System과 연동되는 Spring 설계 및 구축
 
-###  :dolphin: 손재경 <a href="https://github.com/jeakyungshon"> github<br></a>
+###  :dolphin: 손재경 <a href="https://github.com/jaekyungshon"> github<br></a>
 
 * `Frontend` `Backend`
 * 대시보드, 종목추천, 주가메뉴, 종목상세, 챗봇 페이지 UI 설계 및 구현
