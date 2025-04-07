@@ -110,35 +110,31 @@
 
 - **종목 추천 페이지** : 주가급상승 및 거래량급상승 테이블을 통해, 등락폭이 큰 종목들을 확인할 수 있다.
 
-![2_주가급상승_거래량급상승](https://github.com/jaekyungshon/Finance-Frontend/assets/61006212/bd825b2f-8b65-4c28-ab87-6c5e5adea15e)
-
-- **종목 추천 페이지** : 상위 시가총액 기준 28개의 상장 기업들에 대한 최신 뉴스 및 각 뉴스 AI요약을 확인할 수 있다.
-
-![3_최신뉴스](https://github.com/jaekyungshon/Finance-Frontend/assets/61006212/42fd71d6-3c0c-4f3d-850f-02b57c8e6b0a)
+![2_최신뉴스](https://github.com/jaekyungshon/Finance-Frontend/assets/61006212/42fd71d6-3c0c-4f3d-850f-02b57c8e6b0a)
 
 - **주가 메뉴 페이지** : 종목 검색을 통한 주가 지표, 미니 차트, 매매추세를 확인할 수 있다. (상세보기 클릭시, 상세페이지 이동)
 
-![4_종목목록](https://github.com/jaekyungshon/Finance-Frontend/assets/61006212/9462a8b9-a359-4cc8-ac27-35ba7a0cf069)
+![3_종목목록](https://github.com/jaekyungshon/Finance-Frontend/assets/61006212/9462a8b9-a359-4cc8-ac27-35ba7a0cf069)
 
 - **주가 메뉴 페이지** : 산업별 연결도를 통해, 기업의 현재 위치를 파악할 수 있다.
 
-![5_히트맵](https://github.com/jaekyungshon/Finance-Frontend/assets/61006212/f0e7deea-5fc5-41ac-9a7a-ae339293bff3)
+![4_히트맵](https://github.com/jaekyungshon/Finance-Frontend/assets/61006212/f0e7deea-5fc5-41ac-9a7a-ae339293bff3)
 
 - **종목 상세 페이지** : 고급 차트 그래프, 기업 구분 정보, 기술 지표를 확인할 수 있다.
 
-![6_기술지표](https://github.com/jaekyungshon/Finance-Frontend/assets/61006212/90e72cb0-7364-4e6f-a52a-03e04d619cd6)
+![5_기술지표](https://github.com/jaekyungshon/Finance-Frontend/assets/61006212/90e72cb0-7364-4e6f-a52a-03e04d619cd6)
 
 - **종목 상세 페이지** : 관련 뉴스 테이블을 통해, 원문 기사를 볼 수 있다.
 
-![7_관련뉴스](https://github.com/jaekyungshon/Finance-Frontend/assets/61006212/4a47c03d-4992-4e92-a992-f1e32eb0cc51)
+![6_관련뉴스](https://github.com/jaekyungshon/Finance-Frontend/assets/61006212/4a47c03d-4992-4e92-a992-f1e32eb0cc51)
 
 - **종목 상세 페이지** : 각 뉴스의 AI 인사이트 분석 정보를 파악할 수 있다.
 
-![8_토픽인사이트](https://github.com/jaekyungshon/Finance-Frontend/assets/61006212/ec56bcb9-a89f-45e3-baf9-063b40f4e666)
+![7_토픽인사이트](https://github.com/jaekyungshon/Finance-Frontend/assets/61006212/ec56bcb9-a89f-45e3-baf9-063b40f4e666)
 
 - **챗봇 페이지** : ChatAI와 소통하여, 사이트에서 제공하지 않는 분석 정보를 획득할 수 있다.
 
-![9_챗봇](https://github.com/jaekyungshon/Finance-Frontend/assets/61006212/45d9a6f4-2270-478c-979d-5ac3517094d6)
+![8_챗봇](https://github.com/jaekyungshon/Finance-Frontend/assets/61006212/45d9a6f4-2270-478c-979d-5ac3517094d6)
 
 <br/>
 
